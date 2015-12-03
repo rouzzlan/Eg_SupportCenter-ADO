@@ -1,0 +1,10 @@
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\Domain\bin\Debug\SC.BL.Domain.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\Domain\bin\Debug\SC.BL.Domain.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\Domain\obj\Debug\SC.BL.Domain.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\Domain\obj\Debug\SC.BL.Domain.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\Domain\bin\Debug\SC.BL.Domain.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\Domain\bin\Debug\SC.BL.Domain.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\Domain\obj\Debug\SC.BL.Domain.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\Domain\obj\Debug\SC.BL.Domain.pdb

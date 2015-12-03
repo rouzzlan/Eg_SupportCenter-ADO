@@ -1,0 +1,24 @@
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\UI-CA\bin\Debug\SC.UI.CA.exe.config
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\UI-CA\bin\Debug\SC.UI.CA.exe
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\UI-CA\bin\Debug\SC.UI.CA.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\UI-CA\bin\Debug\SC.BL.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\UI-CA\bin\Debug\SC.BL.Domain.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\UI-CA\bin\Debug\SC.DAL.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\UI-CA\bin\Debug\SC.BL.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\UI-CA\bin\Debug\SC.BL.Domain.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\UI-CA\bin\Debug\SC.DAL.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\UI-CA\obj\Debug\UI-CA.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\UI-CA\obj\Debug\SC.UI.CA.exe
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\UI-CA\obj\Debug\SC.UI.CA.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\UI-CA\bin\Debug\SC.UI.CA.exe.config
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\UI-CA\bin\Debug\SC.UI.CA.exe
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\UI-CA\bin\Debug\SC.UI.CA.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\UI-CA\bin\Debug\SC.BL.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\UI-CA\bin\Debug\SC.BL.Domain.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\UI-CA\bin\Debug\SC.DAL.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\UI-CA\bin\Debug\SC.BL.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\UI-CA\bin\Debug\SC.BL.Domain.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\UI-CA\bin\Debug\SC.DAL.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\UI-CA\obj\Debug\UI-CA.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\UI-CA\obj\Debug\SC.UI.CA.exe
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\UI-CA\obj\Debug\SC.UI.CA.pdb

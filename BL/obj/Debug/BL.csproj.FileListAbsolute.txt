@@ -1,0 +1,18 @@
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\BL\bin\Debug\SC.BL.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\BL\bin\Debug\SC.BL.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\BL\bin\Debug\SC.BL.Domain.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\BL\bin\Debug\SC.DAL.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\BL\bin\Debug\SC.DAL.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\BL\bin\Debug\SC.BL.Domain.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\BL\obj\Debug\SC.BL.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\BL\obj\Debug\SC.BL.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\BL\bin\Debug\SC.BL.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\BL\bin\Debug\SC.BL.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\BL\bin\Debug\SC.BL.Domain.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\BL\bin\Debug\SC.DAL.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\BL\bin\Debug\SC.DAL.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\BL\bin\Debug\SC.BL.Domain.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\BL\obj\Debug\SC.BL.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\Eg_SupportCenter-ADO - OPLOSSING\Eg_SupportCenter-ADO\BL\obj\Debug\SC.BL.pdb
